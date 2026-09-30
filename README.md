@@ -239,11 +239,17 @@ An AI-powered health and wellness assistant designed to provide educational heal
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-### 📊 Data & NLP
+### ✨ Generative AI & NLP
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
+
+### 📊 Data
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 🌐 Web & Databases
 
