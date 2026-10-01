@@ -113,17 +113,19 @@ A collaborative project combining multiple AI signals for voice analysis:
 
 <b>AI Pipeline</b>
 
+
 ```text
-🎤 Voice Input
-      │
- ┌────┼────┐
- ↓    ↓    ↓
-ECAPA  AASIST  Whisper
- ↓      ↓       ↓
-👤      🧬      📝
-Speaker Deepfake Speech /
-Verify  Detection Intent
-```
+                         🎤 Voice Input
+                              │
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+        ECAPA-TDNN          AASIST          Whisper
+              ↓               ↓               ↓
+       👤 Speaker          🧬 Deepfake       📝 Speech /
+        Verification        Detection        Intent Analysis
+````
+
+
 
 <br>
 
